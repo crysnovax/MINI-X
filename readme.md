@@ -1,4 +1,4 @@
-# TCT 
+# MINI X
 [![Version](https://img.shields.io/github/v/release/i-tct/tct?style=for-the-badge)](https://github.com/i-tct/tct/releases/latest/download/tct-linux)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/TheCarlTech)
 
@@ -7,7 +7,7 @@
 
 ## About
 
-> **TCT** is a powerful, fast WA bot manager engineered for both personal and group administration. It delivers complete control over your WA experience through a suite of enterprise-grade features, robust security, a highly modular architecture, and multi-language support for seamless communication across diverse communities.
+> **MINI X** is a powerful, fast WA bot manager engineered for both personal and group administration. It delivers complete control over your WA experience through a suite of enterprise-grade features, robust security, a highly modular architecture, and multi-language support for seamless communication across diverse communities. DEVELOPER crysnovx
 ---
 
 ## Supported Languages
