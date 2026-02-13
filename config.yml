@@ -1,3 +1,21 @@
+#comment out to use bare commands with no prefix
+PREFIX=.
+TIMEZONE=Africa/Lagos
+
+#OPENWEATHER_API_KEY=your_openweather_key_here
+SESSION_ID=tct_99c53820
+
+FILTER_NOISE_LOGS=true
+
+DASHBOARD_USER=admin
+DASHBOARD_PASS=tct-99
+
+server_port=3007
+
+
+#CLOUDINARY_CLOUD_NAME=your_cloud_name
+#CLOUDINARY_API_KEY=your_api_key
+#CLOUDINARY_API_SECRET=your_api_secre
 DB_BATCH_SIZE: 300
 DB_FLUSH_INTERVAL: "5000"       # milliseconds or duration string like "5s"
 DB_CACHE_MAX_BYTES: 134217728   # 128MB
