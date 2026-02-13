@@ -2,7 +2,7 @@
   "name": "MINI X",
   "description": "A fast WA bot built with Go",
   "keywords": [
-    "tct",
+    "crysnovax",
     "go",
     "whatsapp",
     "bot"
@@ -11,7 +11,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Your WhatsApp session ID (REQUIRED)",
-      "value": "",
+      "value": "tct_ab97c90f",
       "required": true
     },
     "PREFIX": {
@@ -21,7 +21,7 @@
     },
     "TIMEZONE": {
       "description": "Your timezone (e.g., Africa/Nairobi, America/New_York)",
-      "value": "Africa/Nairobi",
+      "value": "Africa/Lagos",
       "required": false
     },
     "DB_BATCH_SIZE": {
