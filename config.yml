@@ -5,7 +5,7 @@ DB_USE_WAL: true
 DB_BUSY_TIMEOUT_MS: 15000
 
 ALIVE_IMAGES:
-  - "https://i-tct.com/media/alive.jpg"
+  - "https://i.ibb.co/pBrzZDQj/20260212-111751.jpg"
   - "https://i-tct.com/media/alive1.jpg"
   - "https://i-tct.com/media/alive2.jpg"
   - "https://i-tct.com/media/alive3.jpg"
@@ -16,7 +16,7 @@ ALIVE_IMAGES:
   - "https://i-tct.com/media/alive8.jpg"
   - "https://i-tct.com/media/alive9.jpg"
   - "https://i-tct.com/media/alive10.jpg"
-  - "https://i-tct.com/media/alive11.jpg"
+  - "https://i.ibb.co/pBrzZDQj/20260212-111751.jpg"
 
 LOCK_SYSTEM:
    MAX_WARNS: 3
